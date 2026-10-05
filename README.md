@@ -1,5 +1,5 @@
-<h1 align="center">Привет, я Мирт Алий 👋</h1>
-<h3 align="center">AI Systems Architect · Full-Stack Engineer · Создаю автономные агентные системы и платформы автоматизации</h3>
+<h1 align="center">Hi, I'm Mirt Aliy 👋</h1>
+<h3 align="center">AI Systems Architect · Full-Stack Engineer · Building autonomous agent systems and automation platforms</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=70" alt="Header Banner" />
@@ -37,77 +37,77 @@
 
 ---
 
-### 👨‍💻 Обо мне
+### 👨‍💻 About Me
 
-**AI Systems Architect · Full-Stack Engineer · Создаю автономные агентные системы и платформы автоматизации.**
+**AI Systems Architect · Full-Stack Engineer · Building autonomous agent systems and automation platforms.**
 
-Специализируюсь на проектировании **control plane-архитектур для AI-assisted software engineering** и разработке production-платформ, где LLM-агенты работают в ограниченной, проверяемой и аудируемой среде. Строю системы по принципу **evidence-first**: сначала контракты, governance и safety-границы, потом код.
+I specialize in designing **control-plane architectures for AI-assisted software engineering** and building production platforms where LLM agents operate inside a constrained, verifiable, and auditable environment. I build systems **evidence-first**: contracts, governance, and safety boundaries come before code.
 
 ---
 
-#### 🧭 Что я делаю
+#### 🧭 What I Do
 
-| Направление | Чем занимаюсь |
+| Focus Area | What I Work On |
 |---|---|
-| **AI Agent Architecture** | Проектирую control plane, планировщики, memory-слои, coordinator-слои и safety-контуры для мультиагентных систем |
-| **Autonomous Dev Platforms** | Создаю платформы, где LLM-агенты (Claude Code, Codex, Gemini) ведут разработку под human-in-the-loop контролем |
-| **Multi-Agent Orchestration** | Планирование, scheduling, coordination, leases, конфликты параллельных записей, recovery-воркфлоу |
-| **Evidence-Driven Engineering** | Governance, ADR-процессы, immutable baselines, verification protocols, auditable execution |
-| **Production Full-Stack** | FastAPI + PostgreSQL + Redis + Celery + Docker; готовые коммерческие системы под реальный бизнес |
-| **AI OS / Semantic Scripting** | Локальные AI OS, event-sourced runtime, semantic diff/merge, operation ledger, snapshot lineage |
+| **AI Agent Architecture** | Designing control planes, planners, memory layers, coordination layers, and safety perimeters for multi-agent systems |
+| **Autonomous Dev Platforms** | Building platforms where LLM agents (Claude Code, Codex, Gemini) drive development under human-in-the-loop control |
+| **Multi-Agent Orchestration** | Planning, scheduling, coordination, leases, parallel-write conflict resolution, recovery workflows |
+| **Evidence-Driven Engineering** | Governance, ADR processes, immutable baselines, verification protocols, auditable execution |
+| **Production Full-Stack** | FastAPI + PostgreSQL + Redis + Celery + Docker; shipping commercial systems that solve real business problems |
+| **AI OS / Semantic Scripting** | Local AI OS runtimes, event-sourced engines, semantic diff/merge, operation ledgers, snapshot lineage |
 
 ---
 
-#### 🏗️ Ключевые проекты
+#### 🏗️ Featured Projects
 
-**🧭 AI Engineering Control Plane** — *флагманский архитектурный проект*
-Декларативный, evidence-driven control plane для координации AI-assisted разработки ПО. Управляет жизненным циклом `OriginalIntent → DesiredState → Capability Resolver → Scheduler / Admission → RuntimeProvider`. Закрывает: сохранение intent между сессиями, constrained delegated autonomy, drift reconciliation, policy enforcement, observability, verification, human decision workflows. Architecture v1.4 — **APPROVED / FROZEN** с immutable baseline, ADR-процессом и governance rules.
+**🧭 AI Engineering Control Plane** — *flagship architectural project*
+A declarative, evidence-driven control plane for coordinating AI-assisted software engineering. Governs the lifecycle `OriginalIntent → DesiredState → Capability Resolver → Scheduler / Admission → RuntimeProvider`. Covers intent preservation across sessions, constrained delegated autonomy, drift reconciliation, policy enforcement, observability, verification, and human decision workflows. Architecture v1.4 is **APPROVED / FROZEN** with an immutable baseline, ADR process, and governance rules.
 
-**🌀 Autopilot Flywheel** — *мультиагентная software factory*
-Governed multi-agent платформа для автономной разработки. 8-фазный roadmap: от single-agent lifecycle до multi-agent coordination с identity, leases и параллельными записями. Ключевые слои: Planning / Task Graph, Memory с provenance и confidence, Orchestration, Coordination Layer, Runtime Safety (fails closed), Verification, Auditability, Reproducibility. Принципы: adapter-first, idempotent orchestration, human authority, evidence-based learning.
+**🌀 Autopilot Flywheel** — *multi-agent software factory*
+A governed multi-agent platform for autonomous software development. 8-phase roadmap: from single-agent lifecycle to multi-agent coordination with identity, leases, and parallel writes. Core layers: Planning / Task Graph, Memory with provenance and confidence, Orchestration, Coordination Layer, Runtime Safety (fails closed), Verification, Auditability, Reproducibility. Principles: adapter-first, idempotent orchestration, human authority, evidence-based learning.
 
-**🧠 GPTMEAi** — *локальный прототип AI OS*
-Многослойный runtime: `ai_os` (control plane) → `planning` → `execution` (с audited operation ledger) → `core` (memory, граф связей, timeline). Реализованы: capability-aware distribution задач, plan kinds (operational / recovery / remediation / branch_stabilization), branch health с gate-системой (open / guarded / restricted / blocked), cognitive loop с auto-стабилизацией, reusable stabilization playbooks, event-sourced persistent state.
+**🧠 GPTMEAi** — *local AI OS prototype*
+Layered runtime: `ai_os` (control plane) → `planning` → `execution` (with audited operation ledger) → `core` (memory, relation graph, timeline). Features: capability-aware task distribution, plan kinds (operational / recovery / remediation / branch_stabilization), branch health with gate system (open / guarded / restricted / blocked), cognitive loop with auto-stabilization, reusable stabilization playbooks, event-sourced persistent state.
 
-**🛒 Ozon AI Automation** — *приватный production-проект*
-AI-платформа автоматизации действующего e-commerce на маркетплейсе Ozon. Репрайсер с полом цены и стоп-краном, планирование FBO/FBS, юнит-экономика по SKU (1С / МойСклад), A/B-тесты фото карточек, AI-инструменты (описания, ответы на отзывы, утренняя сводка), голосовое управление через Telegram + Whisper. Работает **без единого стороннего ключа** (stub-first), zero lock-in по хостингу, миграции до рестарта, автоматические ночные бэкапы. Доступ к демо — по запросу.
+**🛒 Ozon AI Automation** — *private production project*
+AI automation platform for a live e-commerce business on the Ozon marketplace. Repricer with price floor and kill switch, FBO/FBS shipment planning, SKU-level unit economics (1C / MoySklad), A/B testing of product photos, AI tools (descriptions, review replies, morning digest), and voice control via Telegram + Whisper. Runs **without a single third-party API key** (stub-first), zero hosting lock-in, migrations before restart, automated nightly backups. Demo access — on request.
 
 **🧬 GPTMEAi-SEMASCRIPT** — *integration bridge*
-Dry-run мост между AI OS и semantic scripting. Adapter + contract layer, event-sourced skeleton, approval-gated execution. Архитектура: `event_store → state_engine → snapshot → cognition → risk → governance → validation → system_runtime`. v0.1 — dry-run only: без мутаций, без утечек, под explicit approval.
+Dry-run bridge between the AI OS and semantic scripting. Adapter + contract layer, event-sourced skeleton, approval-gated execution. Architecture: `event_store → state_engine → snapshot → cognition → risk → governance → validation → system_runtime`. v0.1 is dry-run only: no mutations, no leaks, explicit approval required.
 
-**✈️ Autopilot Jet** — *dev-tooling*
-Навык для AI-агентов (Claude Code, Cursor, Codex), превращающий слова в готовый проект.
+**✈️ Autopilot Jet** — *dev tooling*
+A skill for AI agents (Claude Code, Cursor, Codex) that turns words into a ready-to-run project.
 
 **📚 Thoth** — *knowledge agent*
-Персональный second brain в Telegram: саммари ссылок, авто-теги, семантический поиск (vector), evening digest по темам, извлечение action items, поиск повторяющихся паттернов.
+Personal second brain in Telegram: link summarization, auto-tagging, vector semantic search, evening digest grouped by theme, action-item extraction, recurring-pattern detection.
 
 **🔍 Scout** — *repository intelligence*
-Read-only сканер проектов с дашбордом и 14 детекторами: баги, уязвимости, мёртвый код.
+Read-only project scanner with a dashboard and 14 detectors: bugs, vulnerabilities, dead code.
 
 ---
 
-#### 🛠️ Инженерные принципы
+#### 🛠️ Engineering Principles
 
-- **Verify before integrate** — внешний CLI, MCP-tool, REST route или schema не становится контрактом без верификации.
-- **Safety fails closed** — если защитный слой недоступен, high-risk действие не выполняется автоматически.
-- **Adapter-first** — vendor-specific код остаётся на границе adapter layer, не протекает в Core.
-- **Auditable execution** — планирование, делегирование, изменения, approvals, проверки и outcomes имеют traceable identity.
-- **Idempotent orchestration** — повторный запуск не дублирует задачи и не разрушает состояние.
-- **Evidence-based learning** — память хранит provenance / confidence и поддерживает invalidation.
-- **Human authority** — высокорисковые и необратимые действия остаются под explicit approval.
-- **Zero lock-in** — Postgres / Redis / хостинг подключаются строкой `.env`, без правок кода.
+- **Verify before integrate** — an external CLI, MCP tool, REST route, or schema does not become a contract without verification.
+- **Safety fails closed** — if a protective layer is unavailable, a high-risk action does not become automatically permitted.
+- **Adapter-first** — vendor-specific code stays on the adapter boundary and does not leak into the Core.
+- **Auditable execution** — planning, delegation, changes, approvals, checks, and outcomes carry traceable identity.
+- **Idempotent orchestration** — re-running never duplicates tasks or corrupts state.
+- **Evidence-based learning** — memory carries provenance / confidence and supports invalidation.
+- **Human authority** — high-risk and irreversible actions remain under explicit approval.
+- **Zero lock-in** — Postgres / Redis / hosting are wired via `.env`, no code changes required.
 
 ---
 
-#### 💬 Компетенции
+#### 💬 Competencies
 
-**AI / ML:** LLM-агенты · multi-agent orchestration · planning / scheduling · memory systems · RAG · semantic search · Whisper STT · Claude Code · Codex · Gemini · MCP-серверы
+**AI / ML:** LLM agents · multi-agent orchestration · planning / scheduling · memory systems · RAG · semantic search · Whisper STT · Claude Code · Codex · Gemini · MCP servers
 
-**Backend:** Python · FastAPI · Celery · Alembic · PostgreSQL · Redis · REST · event-sourced архитектуры · Fernet-шифрование
+**Backend:** Python · FastAPI · Celery · Alembic · PostgreSQL · Redis · REST · event-sourced architectures · Fernet encryption
 
 **Frontend:** TypeScript · JavaScript · Next.js · React
 
-**DevOps:** Docker · Docker Compose · CI/CD (GitHub Actions) · Playwright · автоматизация бэкапов · zero-downtime deploy
+**DevOps:** Docker · Docker Compose · CI/CD (GitHub Actions) · Playwright · automated backups · zero-downtime deploy
 
 **Architecture:** control plane · event sourcing · snapshot / lineage · operation ledger · ADR · governance · verification protocols · safety boundaries
 
@@ -115,13 +115,13 @@ Read-only сканер проектов с дашбордом и 14 детект
 
 ---
 
-- 📫 Как со мной связаться: **crown.aliy1980@gmail.com**
-- ⚡ Активно развиваю **12 репозиториев**, посвящённых агентным системам, AI OS и автоматизации
-- 🎯 **Открыт к предложениям:** AI Systems Architect · AI Platform Engineer · Senior Backend (Python) · Multi-Agent Systems Engineer · AI Infrastructure
+- 📫 How to reach me: **crown.aliy1980@gmail.com**
+- ⚡ Actively maintaining **12 repositories** focused on agent systems, AI OS, and automation
+- 🎯 **Open to roles:** AI Systems Architect · AI Platform Engineer · Senior Backend (Python) · Multi-Agent Systems Engineer · AI Infrastructure
 
 ---
 
-### 🛠️ Мой технологический стек
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -141,7 +141,7 @@ Read-only сканер проектов с дашбордом и 14 детект
 
 ---
 
-### 📊 Статистика GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alpha-Oi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
@@ -154,62 +154,62 @@ Read-only сканер проектов с дашбордом и 14 детект
 
 ---
 
-### 🚀 Проекты
+### 🚀 Projects
 
-#### 🧭 Control Plane и архитектура
+#### 🧭 Control Plane & Architecture
 
-| Репозиторий | Описание |
+| Repository | Description |
 |---|---|
-| **AI Engineering Control Plane** | Декларативный evidence-driven control plane для AI-assisted SE: intent preservation, constrained autonomy, drift reconciliation. Architecture v1.4 APPROVED / FROZEN. |
-| **[digital-organism-architecture](https://github.com/Alpha-Oi/digital-organism-architecture)** | Архитектурный стандарт для цифровых организмов |
+| **AI Engineering Control Plane** | Declarative, evidence-driven control plane for AI-assisted SE: intent preservation, constrained autonomy, drift reconciliation. Architecture v1.4 APPROVED / FROZEN. |
+| **[digital-organism-architecture](https://github.com/Alpha-Oi/digital-organism-architecture)** | Architectural standard for digital organisms |
 
-#### 🌀 Мультиагентные системы и оркестрация
+#### 🌀 Multi-Agent Systems & Orchestration
 
-| Репозиторий | Описание |
+| Repository | Description |
 |---|---|
 | **[autopilot-flywheel](https://github.com/Alpha-Oi/autopilot-flywheel)** | Governed multi-agent software factory: planning, memory, orchestration, safety, verification, audit |
-| **[autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet)** | Навык для AI-агентов (Claude Code, Cursor, Codex) — превращает слова в готовый проект |
-| **[next-skill-router](https://github.com/Alpha-Oi/next-skill-router)** | Cost-aware маршрутизация навыков для AI-агентов |
+| **[autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet)** | A skill for AI agents (Claude Code, Cursor, Codex) — turns words into a ready project |
+| **[next-skill-router](https://github.com/Alpha-Oi/next-skill-router)** | Cost-aware skill routing for AI agents |
 
-#### 🧠 AI OS, semantic scripting и knowledge
+#### 🧠 AI OS, Semantic Scripting & Knowledge
 
-| Репозиторий | Описание |
+| Repository | Description |
 |---|---|
-| **[GPTMEAi](https://github.com/Alpha-Oi/GPTMEAi)** | Локальный прототип AI OS: память, граф связей, планировщик, аудируемый operation ledger |
+| **[GPTMEAi](https://github.com/Alpha-Oi/GPTMEAi)** | Local AI OS prototype: memory, relation graph, planner, auditable operation ledger |
 | **[SEMASCRIPT](https://github.com/Alpha-Oi/SEMASCRIPT)** | Portable local outcome-package three-way merge / commit / promote bundle. Semantic scripting, local-first. |
-| **[GPTMEAi-SEMASCRIPT](https://github.com/Alpha-Oi/GPTMEAi-SEMASCRIPT)** | Dry-run integration bridge между GPTMEAi и SEMASCRIPT: adapter + contract layer, event-sourced skeleton, approval-gated |
-| **[thoth](https://github.com/Alpha-Oi/thoth)** | Персональный knowledge-агент в Telegram: саммари ссылок, авто-теги, семантический поиск |
-| **[scout](https://github.com/Alpha-Oi/scout)** | Read-only сканер проектов с дашбордом и 14 детекторами (баги, уязвимости, мёртвый код) |
+| **[GPTMEAi-SEMASCRIPT](https://github.com/Alpha-Oi/GPTMEAi-SEMASCRIPT)** | Dry-run integration bridge between GPTMEAi and SEMASCRIPT: adapter + contract layer, event-sourced skeleton, approval-gated |
+| **[thoth](https://github.com/Alpha-Oi/thoth)** | Personal knowledge agent in Telegram: link summaries, auto-tagging, semantic search |
+| **[scout](https://github.com/Alpha-Oi/scout)** | Read-only project scanner with a dashboard and 14 detectors (bugs, vulnerabilities, dead code) |
 
-#### 🛒 Бизнес-автоматизация
+#### 🛒 Business Automation
 
-**🛍️ Ozon AI Automation** — *приватный коммерческий проект*
-AI-платформа автоматизации действующего e-commerce-бизнеса на маркетплейсе Ozon. Закрывает полный цикл операционки магазина: от синхронизации каталога до голосового управления через Telegram.
+**🛍️ Ozon AI Automation** — *private commercial project*
+AI automation platform for a live e-commerce business on the Ozon marketplace. Covers the full operational loop of the store: from catalog synchronization to voice control via Telegram.
 
-| Модуль | Что делает |
+| Module | What It Does |
 |---|---|
-| 💰 **Репрайсер** | Автоматическое изменение цен с полом цены, коридором и стоп-краном. SKU без себестоимости не трогает |
-| 📦 **Поставки FBO/FBS** | Планирование и синхронизация поставок на склады Ozon |
-| 📊 **Юнит-экономика** | Расчёт маржи по SKU: себестоимость (файл / 1С / МойСклад) × комиссия × логистика |
-| 🖼️ **A/B-тесты фото** | Эксперименты с главными фото карточек для роста конверсии |
-| 📈 **Тренды спроса** | Источники: ozon (без ключа) + внешние + публичные |
-| 🤖 **AI-инструменты** | Генерация описаний, ответы на отзывы и вопросы, утренняя сводка |
-| 🎙️ **Голосовое управление** | Telegram-бот с распознаванием речи (Whisper) |
-| 🔐 **Безопасность** | Ключи Ozon под Fernet-шифрованием, в логи попадает только маска |
+| 💰 **Repricer** | Automated price changes with floor price, corridor, and kill switch. SKUs without cost data are never touched |
+| 📦 **FBO/FBS Shipments** | Planning and synchronization of shipments to Ozon warehouses |
+| 📊 **Unit Economics** | Margin calculation per SKU: cost (file / 1C / MoySklad) × commission × logistics |
+| 🖼️ **Photo A/B Tests** | Experiments with main product photos to increase conversion |
+| 📈 **Demand Trends** | Sources: ozon (keyless) + external + public |
+| 🤖 **AI Tools** | Description generation, review and Q&A replies, morning digest |
+| 🎙️ **Voice Control** | Telegram bot with speech recognition (Whisper) |
+| 🔐 **Security** | Ozon keys encrypted with Fernet; only masked values reach logs |
 
-**Особенности реализации:** работает без единого стороннего ключа (stub-режим с переключением провайдеров через `.env`), zero lock-in по хостингу (Docker Compose + Postgres/Redis строкой), миграции Alembic до рестарта, автоматические ночные бэкапы.
-**Стек:** Python · FastAPI · PostgreSQL · Redis · Celery · Alembic · Docker Compose · Playwright
-**Доступ к демо:** [crown.aliy1980@gmail.com](mailto:crown.aliy1980@gmail.com)
+**Implementation highlights:** runs without a single third-party key (stub mode with provider switching via `.env`), zero hosting lock-in (Docker Compose + Postgres/Redis as connection strings), Alembic migrations before restart, automated nightly backups.
+**Stack:** Python · FastAPI · PostgreSQL · Redis · Celery · Alembic · Docker Compose · Playwright
+**Demo access:** [crown.aliy1980@gmail.com](mailto:crown.aliy1980@gmail.com)
 
 #### 💻 Full-Stack
 
-| Репозиторий | Описание |
+| Repository | Description |
 |---|---|
-| **[fullstack-test-task-solution](https://github.com/Alpha-Oi/fullstack-test-task-solution)** | Решение full-stack тестового задания |
+| **[fullstack-test-task-solution](https://github.com/Alpha-Oi/fullstack-test-task-solution)** | Full-stack test task solution |
 
 ---
 
-### 📌 Избранные репозитории (карточки)
+### 📌 Pinned Repositories
 
 <p align="center">
   <a href="https://github.com/Alpha-Oi/autopilot-flywheel">
