@@ -37,6 +37,27 @@
 
 ---
 
+### 🎯 Ключевые навыки (и где их можно проверить)
+
+| Навык | Что сделано | Где посмотреть |
+|---|---|---|
+| 🤖 **LLM-агенты и мультиагентные системы** | Навык, который раздаёт задачи параллельным субагентам с контрактами между ними; агентный runtime с планировщиком и очередью задач | [autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet) · GPTMEAi 🔒 · [autopilot-flywheel](https://github.com/Alpha-Oi/autopilot-flywheel) |
+| 🧰 **Claude Code, MCP, навыки для агентов** | CLI, MCP-сервер и хук для Claude Code; установка навыков в Claude Code, Cursor, Codex | [next-skill-router](https://github.com/Alpha-Oi/next-skill-router) · [autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet) |
+| 🧠 **RAG, память, эмбеддинги, семантический поиск** | Память и граф связей, векторный поиск по заметкам, локальные эмбеддинги | GPTMEAi 🔒 · Thoth 🔒 · [next-skill-router](https://github.com/Alpha-Oi/next-skill-router) |
+| 🔌 **Интеграции с LLM-провайдерами** | OpenAI, GigaChat, YandexGPT, Whisper за единым интерфейсом с заглушками | ozon-ai-automation 🔒 |
+| ⚙️ **Backend на Python** | FastAPI, Celery, SQLAlchemy, Alembic, REST API, слоистая архитектура, чанковая загрузка | [fullstack-test-task-solution](https://github.com/Alpha-Oi/fullstack-test-task-solution) · ozon-ai-automation 🔒 |
+| 🗄️ **PostgreSQL, Redis** | Миграции, очереди, кэш, бэкапы и восстановление базы | [fullstack-test-task-solution](https://github.com/Alpha-Oi/fullstack-test-task-solution) · ozon-ai-automation 🔒 |
+| 🐳 **Docker, Docker Compose, деплой** | Запуск всего стека одной командой на любом сервере, обновление и откат | [fullstack-test-task-solution](https://github.com/Alpha-Oi/fullstack-test-task-solution) · ozon-ai-automation 🔒 |
+| 🔁 **CI/CD, GitHub Actions** | Проверки на Windows, Linux и macOS при каждом изменении; валидация стандарта в CI | [autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet) · [scout](https://github.com/Alpha-Oi/scout) · [DOA](https://github.com/Alpha-Oi/digital-organism-architecture) |
+| 🧪 **Тестирование и качество кода** | Сканер на 14 детекторах: pytest, ruff, mypy, bandit, semgrep, detect-secrets; на реальном проекте 23 находки → 6 | [scout](https://github.com/Alpha-Oi/scout) |
+| 🔐 **Безопасность** | Фильтр секретов перед записью, шифрование ключей (Fernet), маскирование в логах, проверка зависимостей на CVE | [scout](https://github.com/Alpha-Oi/scout) · [autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet) · ozon-ai-automation 🔒 |
+| 📐 **Архитектура и документация** | Стандарт на 49 проверяемых требований и 15 JSON-схем; ADR, спецификации, документация для пользователей | [DOA](https://github.com/Alpha-Oi/digital-organism-architecture) · [autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet) |
+| 🛒 **Автоматизация e-commerce (Ozon API)** | Репрайсер, поставки FBO/FBS, юнит-экономика, A/B-тесты фото, Telegram-бот; опыт селлера | ozon-ai-automation 🔒 |
+
+🔒 — приватный проект, демонстрация и подробности по запросу.
+
+---
+
 ### 👨‍💻 Обо мне
 
 - 🧭 Проектирую **AI Engineering Control Plane** — декларативную, evidence-driven систему управления AI-assisted разработкой ПО *(приватный проект)*
@@ -71,6 +92,9 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" alt="MCP"/>
+  <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge" alt="RAG"/>
 </p>
 
 ---
