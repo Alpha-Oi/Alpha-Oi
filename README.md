@@ -1,86 +1,148 @@
-<div align="center">
+<h1 align="center">Привет, я Мирт Алий 👋</h1>
+<h3 align="center">AI Agent Architect · Full-Stack Developer · Создаю автономные системы и инструменты для разработки</h3>
 
-# Мирт Алий
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=70" alt="Header Banner" />
+</p>
 
-**AI-инженер · автоматизация e-commerce и разработка агентных систем**
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+Agent+Architect;Full-Stack+Developer;Autonomous+Systems+Builder;Always+learning+new+things" alt="Typing SVG" />
+  </a>
+</p>
 
-*AI engineer: e-commerce automation, LLM agents, developer tooling*
-
-Python · FastAPI · Docker · PostgreSQL · Claude Code · MCP
-
-[Telegram](https://t.me/MirtAliy) · [Почта](mailto:crown.aliy1980@gmail.com) · [X](https://x.com/CrownAliy)
-
-</div>
+<p align="center">
+  <a href="mailto:crown.aliy1980@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Alpha-Oi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/MirtAliy">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://x.com/CrownAliy">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.instagram.com/mirt.aliy">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.threads.net/@mirt.aliy">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
+  </a>
+  <a href="https://www.reddit.com/user/Fit_Inspection7651">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+</p>
 
 ---
 
-## Коротко
+### 👨‍💻 Обо мне
 
-Строю системы на базе LLM, которые берут на себя рутинную работу бизнеса, и инструменты, которые делают AI-разработку проверяемой. Раньше сам был селлером на Ozon, поэтому e-commerce знаю изнутри. Сейчас у меня действующая платформа автоматизации магазина на Ozon, и все проекты ниже построены на том же принципе: результат подтверждается проверкой, а не словами.
+- 🧭 Проектирую **AI Engineering Control Plane** — декларативную, evidence-driven систему управления AI-assisted разработкой ПО
+- 🌀 Строю **[autopilot-flywheel](https://github.com/Alpha-Oi/autopilot-flywheel)** — мультиагентную самообучающуюся платформу для автономной разработки
+- ✈️ Развиваю **[autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet)** — навык для AI-агентов, превращающий слова в готовый проект
+- 🛒 Автоматизирую e-commerce на Ozon через **[ozon-ai-automation](https://github.com/Alpha-Oi/ozon-ai-automation)** — репрайсер, FBO/FBS, AI-инструменты
+- 🧠 Создаю **[GPTMEAi](https://github.com/Alpha-Oi/GPTMEAi)** — локальный прототип AI OS с памятью, графом связей и планировщиком
+- 📚 Делаю **[thoth](https://github.com/Alpha-Oi/thoth)** — персонального knowledge-агента для Telegram
+- 🔍 Разрабатываю **[scout](https://github.com/Alpha-Oi/scout)** — read-only сканер проектов с 14 детекторами
+- 💬 Спросите меня о **AI-агентах, автономных системах, FastAPI, Next.js, Claude Code, MCP-серверах**
+- 📫 Как со мной связаться: **crown.aliy1980@gmail.com**
+- ⚡ Активно развиваю экосистему из **10+ репозиториев**, посвящённых агентным системам и автоматизации
 
-## Для работодателей
+---
 
-Ищу роль в AI-автоматизации (e-commerce, операционные процессы, внутренние инструменты, разработка AI-агентов).
+### 🛠️ Мой технологический стек
 
-| Что умею | Чем подтверждаю |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+### 📊 Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alpha-Oi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha-Oi&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-Oi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🚀 Проекты
+
+#### 🧭 Control Plane и архитектура
+| Репозиторий | Описание |
 |---|---|
-| Доводить AI-автоматизацию до работающей платформы | Платформа для магазина на Ozon (приватный проект, подробности ниже) |
-| Делать инструменты контроля качества кода | [Scout](https://github.com/Alpha-Oi/scout): 14 детекторов, дашборд, CI |
-| Проектировать архитектуру AI-систем | [DOA](https://github.com/Alpha-Oi/digital-organism-architecture): 49 проверяемых требований, 15 JSON-схем, валидация в CI |
-| Строить backend и интерфейсы | [файловый обмен на FastAPI + Celery + Next.js](https://github.com/Alpha-Oi/fullstack-test-task-solution), Docker, CI |
-| Поддерживать проекты кроссплатформенно | [autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet): CI на Windows, Linux и macOS |
+| **AI Engineering Control Plane** | Декларативный evidence-driven control plane для AI-assisted SE: сохранение intent, constrained autonomy, drift reconciliation |
+| **[digital-organism-architecture](https://github.com/Alpha-Oi/digital-organism-architecture)** | Архитектурный стандарт для цифровых организмов |
 
-## Для заказчиков
+#### 🌀 Мультиагентные системы
+| Репозиторий | Описание |
+|---|---|
+| **[autopilot-flywheel](https://github.com/Alpha-Oi/autopilot-flywheel)** | Governed multi-agent software factory: planning, memory, orchestration, safety, verification |
+| **[autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet)** | Навык для AI-агентов (Claude Code, Cursor, Codex) — превращает слова в готовый проект |
+| **[next-skill-router](https://github.com/Alpha-Oi/next-skill-router)** | Cost-aware маршрутизация навыков для AI-агентов |
 
-Беру задачи от разговора о проблеме до работающего решения.
+#### 🧠 AI OS и knowledge
+| Репозиторий | Описание |
+|---|---|
+| **[GPTMEAi](https://github.com/Alpha-Oi/GPTMEAi)** | Локальный прототип AI OS: память, граф связей, планировщик, аудируемый operation ledger |
+| **[thoth](https://github.com/Alpha-Oi/thoth)** | Персональный knowledge-агент в Telegram: саммари ссылок, авто-теги, семантический поиск |
+| **[scout](https://github.com/Alpha-Oi/scout)** | Read-only сканер проектов с дашбордом и 14 детекторами (баги, уязвимости, мёртвый код) |
 
-1. **Разбираю задачу:** что можно автоматизировать, что нет, что для этого нужно.
-2. **Делаю рабочую версию** и показываю на ваших данных.
-3. **Передаю с документацией:** вы понимаете, как это устроено, и можете развивать дальше или поручить мне.
+#### 🛒 Бизнес-автоматизация
+| Репозиторий | Описание |
+|---|---|
+| **[ozon-ai-automation](https://github.com/Alpha-Oi/ozon-ai-automation)** | AI-платформа автоматизации e-commerce на Ozon: репрайсер, FBO/FBS, AI-инструменты, голосовое управление |
 
-Типичные задачи: автоматизация магазина на маркетплейсе (цены, поставки, отчёты, ответы на отзывы), Telegram-бот, AI-помощник для команды, интеграции и выгрузки.
-Написать: [Telegram](https://t.me/MirtAliy) или [на почту](mailto:crown.aliy1980@gmail.com).
-
-## Проекты
-
-### Открытые
-
-**[Scout](https://github.com/Alpha-Oi/scout)** — сканер проекта, который только читает код и ничего не правит. 14 детекторов: баги, уязвимости, мёртвый код, стиль. Есть дашборд, экспорт в SARIF и очередь задач на исправление. На реальном проекте (RAG-движок памяти): 23 находки, из них 5 высокой серьёзности (реальные баги); после исправлений и повторного скана осталось 6, находок высокой серьёзности нет. Работает в Claude Code, Cursor, Codex и как обычная командная строка.
-
-**[Digital Organism Architecture (DOA)](https://github.com/Alpha-Oi/digital-organism-architecture)** — стандарт для AI-систем, которые должны быть управляемыми, наблюдаемыми и восстанавливаемыми. 49 проверяемых требований, 15 JSON-схем, 5 машин состояний, набор для проверки соответствия. Это спецификация, а не фреймворк. Версия 1.5.0, Apache 2.0.
-
-**[autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet)** — фреймворк разработки в виде навыка для AI-агентов: из описания идеи получается спецификация, план и готовый проект. Это моя доработанная версия [проекта Nick Vels](https://github.com/nick-vels/skills): добавлена работа на Windows, Linux и macOS, ускорен дашборд, каждое изменение проверяется в CI на трёх системах, решения записаны в ADR.
-
-**[fullstack-test-task-solution](https://github.com/Alpha-Oi/fullstack-test-task-solution)** — файловый обмен: загрузка частями, асинхронная обработка, метаданные и алерты. FastAPI, Celery, PostgreSQL, Redis, Next.js, Docker.
-
-### Приватные (подробности по запросу)
-
-**Платформа автоматизации Ozon-бизнеса** — действующая система для магазина: синхронизация товаров и цен, юнит-экономика, репрайсер с полом цены и «стоп-краном», планирование поставок FBO/FBS, A/B-тесты фото карточек, отчёты по трендам, AI-описания и ответы на отзывы, голосовое управление через Telegram. Запускается на любом сервере с Docker одной командой, работает и без внешних ключей за счёт заглушек.
-
-**GPTMEAi** — локальный прототип AI OS: память, граф связей, планировщик и исполнитель с журналом операций.
-
-**Thoth** — личный Telegram-агент для заметок со смысловым поиском (в разработке).
-
-## Стек
-
-**AI:** Claude Code, MCP, навыки и субагенты, RAG, интеграции с OpenAI, GigaChat, YandexGPT
-**Backend:** Python, FastAPI, SQLAlchemy, Alembic, Celery
-**Данные:** PostgreSQL, Redis, SQLite
-**Frontend:** TypeScript, React, Next.js
-**Инфраструктура:** Docker, Docker Compose, GitHub Actions
-**Качество:** pytest, ruff, mypy, bandit, semgrep, CI на нескольких ОС
-
-## Как я работаю
-
-- Сначала фиксирую, что должно получиться и как это проверить, потом пишу код.
-- Любое изменение проходит проверки в CI; результат подтверждаю запуском, а не заверением.
-- Секреты не храню в репозитории: только имена переменных и шаблон `.env.example`.
-- Объясняю простым языком и оставляю документацию, по которой можно работать без меня.
+#### 💻 Full-Stack
+| Репозиторий | Описание |
+|---|---|
+| **[fullstack-test-task-solution](https://github.com/Alpha-Oi/fullstack-test-task-solution)** | Решение full-stack тестового задания |
 
 ---
 
-<div align="center">
+### 📌 Избранные репозитории (карточки)
 
-Открыт к предложениям: работа в команде или отдельные проекты. Быстрее всего отвечаю в [Telegram](https://t.me/MirtAliy).
+<p align="center">
+  <a href="https://github.com/Alpha-Oi/autopilot-flywheel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=autopilot-flywheel&theme=radical&hide_border=true" alt="autopilot-flywheel" />
+  </a>
+  <a href="https://github.com/Alpha-Oi/GPTMEAi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=GPTMEAi&theme=radical&hide_border=true" alt="GPTMEAi" />
+  </a>
+  <a href="https://github.com/Alpha-Oi/ozon-ai-automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=ozon-ai-automation&theme=radical&hide_border=true" alt="ozon-ai-automation" />
+  </a>
+  <a href="https://github.com/Alpha-Oi/thoth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=thoth&theme=radical&hide_border=true" alt="thoth" />
+  </a>
+  <a href="https://github.com/Alpha-Oi/autopilot-jet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=autopilot-jet&theme=radical&hide_border=true" alt="autopilot-jet" />
+  </a>
+  <a href="https://github.com/Alpha-Oi/next-skill-router">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=next-skill-router&theme=radical&hide_border=true" alt="next-skill-router" />
+  </a>
+</p>
 
-</div>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alpha-Oi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
