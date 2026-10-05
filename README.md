@@ -1,189 +1,239 @@
-<h1 align="center">Hi, I'm Mirt Aliy 👋</h1>
-<h3 align="center">AI Systems Architect · Full-Stack Engineer · Building autonomous agent systems</h3>
+<h1 align="center">Привет, я Мирт Алий 👋</h1>
+<h3 align="center">AI Systems Architect · Full-Stack Engineer · Создаю автономные агентные системы и платформы автоматизации</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+Systems+Architect;Full-Stack+Engineer;Multi-Agent+Systems;Autonomous+Dev+Platforms" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=70" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work"/>
-  <img src="https://img.shields.io/badge/Focus-AI_Agent_Architecture-8b5cf6?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Location-Remote-0ea5e9?style=for-the-badge" alt="Location"/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+Systems+Architect;Full-Stack+Engineer;Multi-Agent+Systems;Autonomous+Dev+Platforms" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="mailto:crown.aliy1980@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/Alpha-Oi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://t.me/MirtAliy"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://x.com/CrownAliy"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://www.instagram.com/mirt.aliy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.threads.net/@mirt.aliy"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
-  <a href="https://www.reddit.com/user/Fit_Inspection7651"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alpha-Oi&label=Views&color=8b5cf6&style=flat-square" alt="Views"/>
-  <img src="https://img.shields.io/github/followers/Alpha-Oi?label=Followers&style=flat-square&color=0ea5e9" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Alpha-Oi?label=Stars&style=flat-square&color=ec4899" alt="Stars"/>
+  <a href="mailto:crown.aliy1980@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Alpha-Oi">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://t.me/MirtAliy">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://x.com/CrownAliy">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.instagram.com/mirt.aliy">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.threads.net/@mirt.aliy">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/>
+  </a>
+  <a href="https://www.reddit.com/user/Fit_Inspection7651">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 Обо мне
 
-**AI Systems Architect · Full-Stack Engineer · Building autonomous agent systems and automation platforms.**
+**AI Systems Architect · Full-Stack Engineer · Создаю автономные агентные системы и платформы автоматизации.**
 
-I specialize in designing **control-plane architectures for AI-assisted software engineering** and building production platforms where LLM agents operate inside a constrained, verifiable, and auditable environment. I build systems **evidence-first** — contracts, governance, and safety boundaries come before code.
+Специализируюсь на проектировании **control plane-архитектур для AI-assisted software engineering** и разработке production-платформ, где LLM-агенты работают в ограниченной, проверяемой и аудируемой среде. Строю системы по принципу **evidence-first**: сначала контракты, governance и safety-границы, потом код.
 
-| | |
+---
+
+#### 🧭 Что я делаю
+
+| Направление | Чем занимаюсь |
 |---|---|
-| **Name** | Mirt Aliy |
-| **Role** | AI Systems Architect |
-| **Location** | Remote / Worldwide |
-| **Focus** | Multi-Agent Systems · AI OS · Autonomous Dev Platforms |
-| **Philosophy** | Verify before integrate · Safety fails closed · Human authority |
-| **Currently** | Building AI Engineering Control Plane (v1.4 APPROVED / FROZEN) |
-| **Open to** | AI Systems Architect · AI Platform Engineer · Senior Backend (Python) |
+| **AI Agent Architecture** | Проектирую control plane, планировщики, memory-слои, coordinator-слои и safety-контуры для мультиагентных систем |
+| **Autonomous Dev Platforms** | Создаю платформы, где LLM-агенты (Claude Code, Codex, Gemini) ведут разработку под human-in-the-loop контролем |
+| **Multi-Agent Orchestration** | Планирование, scheduling, coordination, leases, конфликты параллельных записей, recovery-воркфлоу |
+| **Evidence-Driven Engineering** | Governance, ADR-процессы, immutable baselines, verification protocols, auditable execution |
+| **Production Full-Stack** | FastAPI + PostgreSQL + Redis + Celery + Docker; готовые коммерческие системы под реальный бизнес |
+| **AI OS / Semantic Scripting** | Локальные AI OS, event-sourced runtime, semantic diff/merge, operation ledger, snapshot lineage |
 
 ---
 
-## 🧭 What I Do
+#### 🏗️ Ключевые проекты
 
-- 🧠 **AI Agent Architecture** — control planes, planners, memory layers, coordination, safety perimeters
-- 🚀 **Autonomous Dev Platforms** — LLM agents (Claude Code, Codex, Gemini) under human-in-the-loop
-- ⚙️ **Multi-Agent Orchestration** — planning, scheduling, leases, parallel-write conflict resolution
-- 📋 **Evidence-Driven Engineering** — governance, ADR, immutable baselines, verification protocols
-- 🏗️ **Production Full-Stack** — FastAPI + PostgreSQL + Redis + Celery + Docker
-- 🧬 **AI OS & Semantic Scripting** — event-sourced engines, semantic diff/merge, operation ledgers
+**🧭 AI Engineering Control Plane** — *флагманский архитектурный проект*
+Декларативный, evidence-driven control plane для координации AI-assisted разработки ПО. Управляет жизненным циклом `OriginalIntent → DesiredState → Capability Resolver → Scheduler / Admission → RuntimeProvider`. Закрывает: сохранение intent между сессиями, constrained delegated autonomy, drift reconciliation, policy enforcement, observability, verification, human decision workflows. Architecture v1.4 — **APPROVED / FROZEN** с immutable baseline, ADR-процессом и governance rules.
+
+**🌀 Autopilot Flywheel** — *мультиагентная software factory*
+Governed multi-agent платформа для автономной разработки. 8-фазный roadmap: от single-agent lifecycle до multi-agent coordination с identity, leases и параллельными записями. Ключевые слои: Planning / Task Graph, Memory с provenance и confidence, Orchestration, Coordination Layer, Runtime Safety (fails closed), Verification, Auditability, Reproducibility. Принципы: adapter-first, idempotent orchestration, human authority, evidence-based learning.
+
+**🧠 GPTMEAi** — *локальный прототип AI OS*
+Многослойный runtime: `ai_os` (control plane) → `planning` → `execution` (с audited operation ledger) → `core` (memory, граф связей, timeline). Реализованы: capability-aware distribution задач, plan kinds (operational / recovery / remediation / branch_stabilization), branch health с gate-системой (open / guarded / restricted / blocked), cognitive loop с auto-стабилизацией, reusable stabilization playbooks, event-sourced persistent state.
+
+**🛒 Ozon AI Automation** — *приватный production-проект*
+AI-платформа автоматизации действующего e-commerce на маркетплейсе Ozon. Репрайсер с полом цены и стоп-краном, планирование FBO/FBS, юнит-экономика по SKU (1С / МойСклад), A/B-тесты фото карточек, AI-инструменты (описания, ответы на отзывы, утренняя сводка), голосовое управление через Telegram + Whisper. Работает **без единого стороннего ключа** (stub-first), zero lock-in по хостингу, миграции до рестарта, автоматические ночные бэкапы. Доступ к демо — по запросу.
+
+**🧬 GPTMEAi-SEMASCRIPT** — *integration bridge*
+Dry-run мост между AI OS и semantic scripting. Adapter + contract layer, event-sourced skeleton, approval-gated execution. Архитектура: `event_store → state_engine → snapshot → cognition → risk → governance → validation → system_runtime`. v0.1 — dry-run only: без мутаций, без утечек, под explicit approval.
+
+**✈️ Autopilot Jet** — *dev-tooling*
+Навык для AI-агентов (Claude Code, Cursor, Codex), превращающий слова в готовый проект.
+
+**📚 Thoth** — *knowledge agent*
+Персональный second brain в Telegram: саммари ссылок, авто-теги, семантический поиск (vector), evening digest по темам, извлечение action items, поиск повторяющихся паттернов.
+
+**🔍 Scout** — *repository intelligence*
+Read-only сканер проектов с дашбордом и 14 детекторами: баги, уязвимости, мёртвый код.
 
 ---
 
-## 📊 GitHub Stats
+#### 🛠️ Инженерные принципы
+
+- **Verify before integrate** — внешний CLI, MCP-tool, REST route или schema не становится контрактом без верификации.
+- **Safety fails closed** — если защитный слой недоступен, high-risk действие не выполняется автоматически.
+- **Adapter-first** — vendor-specific код остаётся на границе adapter layer, не протекает в Core.
+- **Auditable execution** — планирование, делегирование, изменения, approvals, проверки и outcomes имеют traceable identity.
+- **Idempotent orchestration** — повторный запуск не дублирует задачи и не разрушает состояние.
+- **Evidence-based learning** — память хранит provenance / confidence и поддерживает invalidation.
+- **Human authority** — высокорисковые и необратимые действия остаются под explicit approval.
+- **Zero lock-in** — Postgres / Redis / хостинг подключаются строкой `.env`, без правок кода.
+
+---
+
+#### 💬 Компетенции
+
+**AI / ML:** LLM-агенты · multi-agent orchestration · planning / scheduling · memory systems · RAG · semantic search · Whisper STT · Claude Code · Codex · Gemini · MCP-серверы
+
+**Backend:** Python · FastAPI · Celery · Alembic · PostgreSQL · Redis · REST · event-sourced архитектуры · Fernet-шифрование
+
+**Frontend:** TypeScript · JavaScript · Next.js · React
+
+**DevOps:** Docker · Docker Compose · CI/CD (GitHub Actions) · Playwright · автоматизация бэкапов · zero-downtime deploy
+
+**Architecture:** control plane · event sourcing · snapshot / lineage · operation ledger · ADR · governance · verification protocols · safety boundaries
+
+**Tools:** Git · PowerShell · Bash · Alembic · Fernet · Docker Desktop
+
+---
+
+- 📫 Как со мной связаться: **crown.aliy1980@gmail.com**
+- ⚡ Активно развиваю **12 репозиториев**, посвящённых агентным системам, AI OS и автоматизации
+- 🎯 **Открыт к предложениям:** AI Systems Architect · AI Platform Engineer · Senior Backend (Python) · Multi-Agent Systems Engineer · AI Infrastructure
+
+---
+
+### 🛠️ Мой технологический стек
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Alpha-Oi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=0ea5e9" alt="Stats"/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha-Oi&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=ec4899" alt="Streak"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+### 📊 Статистика GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alpha-Oi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alpha-Oi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-Oi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-Oi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏗️ Featured Projects
+### 🚀 Проекты
 
-### 🧭 AI Engineering Control Plane
-*Flagship architectural project · v1.4 APPROVED / FROZEN*
+#### 🧭 Control Plane и архитектура
 
-Declarative, evidence-driven control plane for AI-assisted SE. Governs the lifecycle **OriginalIntent → DesiredState → Capability Resolver → Scheduler / Admission → RuntimeProvider**. Covers intent preservation, constrained autonomy, drift reconciliation, policy enforcement, observability, verification.
+| Репозиторий | Описание |
+|---|---|
+| **AI Engineering Control Plane** | Декларативный evidence-driven control plane для AI-assisted SE: intent preservation, constrained autonomy, drift reconciliation. Architecture v1.4 APPROVED / FROZEN. |
+| **[digital-organism-architecture](https://github.com/Alpha-Oi/digital-organism-architecture)** | Архитектурный стандарт для цифровых организмов |
 
-`Architecture` `Governance` `ADR` `Verification Protocols` `Safety Boundaries`
+#### 🌀 Мультиагентные системы и оркестрация
 
-### 🌀 Autopilot Flywheel
-*Multi-agent software factory*
+| Репозиторий | Описание |
+|---|---|
+| **[autopilot-flywheel](https://github.com/Alpha-Oi/autopilot-flywheel)** | Governed multi-agent software factory: planning, memory, orchestration, safety, verification, audit |
+| **[autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet)** | Навык для AI-агентов (Claude Code, Cursor, Codex) — превращает слова в готовый проект |
+| **[next-skill-router](https://github.com/Alpha-Oi/next-skill-router)** | Cost-aware маршрутизация навыков для AI-агентов |
 
-Governed multi-agent platform for autonomous software development. 8-phase roadmap from single-agent lifecycle to multi-agent coordination with identity, leases, and parallel writes. Layers: Planning / Task Graph, Memory (provenance + confidence), Orchestration, Coordination, Runtime Safety (fails closed), Verification, Auditability.
+#### 🧠 AI OS, semantic scripting и knowledge
 
-`Multi-Agent` `Orchestration` `Memory Systems` `Runtime Safety`
+| Репозиторий | Описание |
+|---|---|
+| **[GPTMEAi](https://github.com/Alpha-Oi/GPTMEAi)** | Локальный прототип AI OS: память, граф связей, планировщик, аудируемый operation ledger |
+| **[SEMASCRIPT](https://github.com/Alpha-Oi/SEMASCRIPT)** | Portable local outcome-package three-way merge / commit / promote bundle. Semantic scripting, local-first. |
+| **[GPTMEAi-SEMASCRIPT](https://github.com/Alpha-Oi/GPTMEAi-SEMASCRIPT)** | Dry-run integration bridge между GPTMEAi и SEMASCRIPT: adapter + contract layer, event-sourced skeleton, approval-gated |
+| **[thoth](https://github.com/Alpha-Oi/thoth)** | Персональный knowledge-агент в Telegram: саммари ссылок, авто-теги, семантический поиск |
+| **[scout](https://github.com/Alpha-Oi/scout)** | Read-only сканер проектов с дашбордом и 14 детекторами (баги, уязвимости, мёртвый код) |
+
+#### 🛒 Бизнес-автоматизация
+
+**🛍️ Ozon AI Automation** — *приватный коммерческий проект*
+AI-платформа автоматизации действующего e-commerce-бизнеса на маркетплейсе Ozon. Закрывает полный цикл операционки магазина: от синхронизации каталога до голосового управления через Telegram.
+
+| Модуль | Что делает |
+|---|---|
+| 💰 **Репрайсер** | Автоматическое изменение цен с полом цены, коридором и стоп-краном. SKU без себестоимости не трогает |
+| 📦 **Поставки FBO/FBS** | Планирование и синхронизация поставок на склады Ozon |
+| 📊 **Юнит-экономика** | Расчёт маржи по SKU: себестоимость (файл / 1С / МойСклад) × комиссия × логистика |
+| 🖼️ **A/B-тесты фото** | Эксперименты с главными фото карточек для роста конверсии |
+| 📈 **Тренды спроса** | Источники: ozon (без ключа) + внешние + публичные |
+| 🤖 **AI-инструменты** | Генерация описаний, ответы на отзывы и вопросы, утренняя сводка |
+| 🎙️ **Голосовое управление** | Telegram-бот с распознаванием речи (Whisper) |
+| 🔐 **Безопасность** | Ключи Ozon под Fernet-шифрованием, в логи попадает только маска |
+
+**Особенности реализации:** работает без единого стороннего ключа (stub-режим с переключением провайдеров через `.env`), zero lock-in по хостингу (Docker Compose + Postgres/Redis строкой), миграции Alembic до рестарта, автоматические ночные бэкапы.
+**Стек:** Python · FastAPI · PostgreSQL · Redis · Celery · Alembic · Docker Compose · Playwright
+**Доступ к демо:** [crown.aliy1980@gmail.com](mailto:crown.aliy1980@gmail.com)
+
+#### 💻 Full-Stack
+
+| Репозиторий | Описание |
+|---|---|
+| **[fullstack-test-task-solution](https://github.com/Alpha-Oi/fullstack-test-task-solution)** | Решение full-stack тестового задания |
+
+---
+
+### 📌 Избранные репозитории (карточки)
 
 <p align="center">
-  <a href="https://github.com/Alpha-Oi/autopilot-flywheel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=autopilot-flywheel&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="autopilot-flywheel" width="400"/></a>
-  <a href="https://github.com/Alpha-Oi/GPTMEAi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=GPTMEAi&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GPTMEAi" width="400"/></a>
+  <a href="https://github.com/Alpha-Oi/autopilot-flywheel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=autopilot-flywheel&theme=radical&hide_border=true" alt="autopilot-flywheel" />
+  </a>
+  <a href="https://github.com/Alpha-Oi/GPTMEAi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=GPTMEAi&theme=radical&hide_border=true" alt="GPTMEAi" />
+  </a>
+  <a href="https://github.com/Alpha-Oi/GPTMEAi-SEMASCRIPT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=GPTMEAi-SEMASCRIPT&theme=radical&hide_border=true" alt="GPTMEAi-SEMASCRIPT" />
+  </a>
+  <a href="https://github.com/Alpha-Oi/autopilot-jet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=autopilot-jet&theme=radical&hide_border=true" alt="autopilot-jet" />
+  </a>
+  <a href="https://github.com/Alpha-Oi/thoth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=thoth&theme=radical&hide_border=true" alt="thoth" />
+  </a>
+  <a href="https://github.com/Alpha-Oi/next-skill-router">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=next-skill-router&theme=radical&hide_border=true" alt="next-skill-router" />
+  </a>
 </p>
 
-### 🧠 GPTMEAi
-*Local AI OS prototype*
-
-Layered runtime: ai_os (control plane) → planning → execution (audited operation ledger) → core (memory, relation graph, timeline). Capability-aware task distribution, plan kinds, branch health gates, cognitive loop with auto-stabilization, event-sourced persistent state.
-
-`AI OS` `Event Sourcing` `Operation Ledger` `Cognitive Loop`
-
-### 🛒 Ozon AI Automation
-*Private commercial project · Demo on request*
-
-AI automation platform for a live Ozon e-commerce business. Full operational loop: catalog sync, repricer with price floor + kill switch, FBO/FBS shipment planning, SKU unit economics (1C / MoySklad), photo A/B tests, AI tools (descriptions, review replies, morning digest), voice control via Telegram + Whisper. Runs **without third-party API keys** (stub-first), zero hosting lock-in, nightly backups.
-
-`FastAPI` `PostgreSQL` `Redis` `Celery` `Docker` `Whisper`
-
-### 🧬 GPTMEAi-SEMASCRIPT
-*Integration bridge*
-
-Dry-run bridge between AI OS and semantic scripting. Adapter + contract layer, event-sourced skeleton, approval-gated. Architecture: event_store → state_engine → snapshot → cognition → risk → governance → validation → system_runtime.
-
-`Adapter Pattern` `Event Sourcing` `Approval Gates` `Dry-Run`
-
-### ✈️ Autopilot Jet · 📚 Thoth · 🔍 Scout
-
-**Autopilot Jet** — skill for AI agents (Claude Code, Cursor, Codex); turns words into a ready-to-run project.
-
-**Thoth** — personal second brain in Telegram: link summaries, auto-tagging, vector search, evening digest, action-item extraction.
-
-**Scout** — read-only project scanner with dashboard and 14 detectors (bugs, vulnerabilities, dead code).
-
 ---
-
-## 🛡️ Engineering Principles
-
-- **Verify before integrate** — external interfaces don't become contracts without verification
-- **Safety fails closed** — if a protective layer is unavailable, high-risk actions aren't automatically permitted
-- **Adapter-first** — vendor-specific code stays on the adapter boundary
-- **Auditable execution** — planning, delegation, changes, and outcomes carry traceable identity
-- **Idempotent orchestration** — re-running never duplicates tasks or corrupts state
-- **Evidence-based learning** — memory carries provenance / confidence and supports invalidation
-- **Human authority** — high-risk and irreversible actions remain under explicit approval
-- **Zero lock-in** — Postgres / Redis / hosting wired via .env, no code changes
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Backend:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-6A5ACD?style=for-the-badge) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-**Frontend:** ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-**AI Stack:** ![Claude Code](https://img.shields.io/badge/Claude_Code-8B5CF6?style=for-the-badge) ![Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper_STT-FF6F00?style=for-the-badge&logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP_Servers-0EA5E9?style=for-the-badge)
-
----
-
-## 📁 All Projects
-
-| Project | Focus | Status |
-|---|---|:---:|
-| **AI Engineering Control Plane** | Control Plane · Architecture | 🟢 v1.4 APPROVED |
-| **[autopilot-flywheel](https://github.com/Alpha-Oi/autopilot-flywheel)** | Multi-Agent · Orchestration | 🟡 Foundation |
-| **[GPTMEAi](https://github.com/Alpha-Oi/GPTMEAi)** | AI OS · Event Sourcing | 🟢 Active |
-| **Ozon AI Automation** 🔒 | E-Commerce · Production | 🟢 Production |
-| **[GPTMEAi-SEMASCRIPT](https://github.com/Alpha-Oi/GPTMEAi-SEMASCRIPT)** | Integration · Adapter | 🟢 Active |
-| **[autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet)** | Dev Tooling | 🟢 Active |
-| **[next-skill-router](https://github.com/Alpha-Oi/next-skill-router)** | Skill Routing | 🟢 Active |
-| **[thoth](https://github.com/Alpha-Oi/thoth)** | Knowledge Agent | 🟢 Active |
-| **[scout](https://github.com/Alpha-Oi/scout)** | Repository Intelligence | 🟢 Active |
-| **[SEMASCRIPT](https://github.com/Alpha-Oi/SEMASCRIPT)** | Semantic Scripting | 🟢 Active |
-| **[digital-organism-architecture](https://github.com/Alpha-Oi/digital-organism-architecture)** | Architecture | 🟢 Active |
-| **[fullstack-test-task-solution](https://github.com/Alpha-Oi/fullstack-test-task-solution)** | Full-Stack | 🟢 Complete |
-
-> 🔒 — Private repository. Access on request.
-
----
-
-## 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:crown.aliy1980@gmail.com"><img src="https://img.shields.io/badge/Email-crown.aliy1980@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://t.me/MirtAliy"><img src="https://img.shields.io/badge/Telegram-@MirtAliy-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-</p>
-
-<p align="center">
-  <b>🎯 Open to:</b> AI Systems Architect · AI Platform Engineer · Senior Backend (Python) · Multi-Agent Systems Engineer · AI Infrastructure
-</p>
-
-<p align="center">
-  <i>⭐ If you find my work interesting, feel free to star the repositories and reach out.</i>
+  <img src="https://komarev.com/ghpvc/?username=Alpha-Oi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
