@@ -41,13 +41,14 @@
 
 | Навык | Что сделано | Где посмотреть |
 |---|---|---|
-| 🤖 **LLM-агенты и мультиагентные системы** | Навык, который раздаёт задачи параллельным субагентам с контрактами между ними; агентный runtime с планировщиком и очередью задач | [autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet) · GPTMEAi 🔒 · [autopilot-flywheel](https://github.com/Alpha-Oi/autopilot-flywheel) |
+| 🤖 **LLM-агенты и мультиагентные системы** | Навык, который раздаёт задачи параллельным субагентам с контрактами между ними; агентный runtime с планировщиком и очередью задач | [autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet) · [GPTMEAi](https://github.com/Alpha-Oi/GPTMEAi) · [autopilot-flywheel](https://github.com/Alpha-Oi/autopilot-flywheel) |
 | 🧰 **Claude Code, MCP, навыки для агентов** | CLI, MCP-сервер и хук для Claude Code; установка навыков в Claude Code, Cursor, Codex | [next-skill-router](https://github.com/Alpha-Oi/next-skill-router) · [autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet) |
-| 🧠 **RAG, память, эмбеддинги, семантический поиск** | Память и граф связей, векторный поиск по заметкам, локальные эмбеддинги | GPTMEAi 🔒 · Thoth 🔒 · [next-skill-router](https://github.com/Alpha-Oi/next-skill-router) |
+| 🧠 **RAG, память, эмбеддинги, семантический поиск** | Память и граф связей, векторный поиск по заметкам, локальные эмбеддинги | [GPTMEAi](https://github.com/Alpha-Oi/GPTMEAi) · Thoth 🔒 · [next-skill-router](https://github.com/Alpha-Oi/next-skill-router) |
 | 🔌 **Интеграции с LLM-провайдерами** | OpenAI, GigaChat, YandexGPT, Whisper за единым интерфейсом с заглушками | ozon-ai-automation 🔒 |
 | ⚙️ **Backend на Python** | FastAPI, Celery, SQLAlchemy, Alembic, REST API, слоистая архитектура, чанковая загрузка | [fullstack-test-task-solution](https://github.com/Alpha-Oi/fullstack-test-task-solution) · ozon-ai-automation 🔒 |
 | 🗄️ **PostgreSQL, Redis** | Миграции, очереди, кэш, бэкапы и восстановление базы | [fullstack-test-task-solution](https://github.com/Alpha-Oi/fullstack-test-task-solution) · ozon-ai-automation 🔒 |
 | 🐳 **Docker, Docker Compose, деплой** | Запуск всего стека одной командой на любом сервере, обновление и откат | [fullstack-test-task-solution](https://github.com/Alpha-Oi/fullstack-test-task-solution) · ozon-ai-automation 🔒 |
+| 📦 **Продукт «от идеи до релиза»** | Генерация статического сайта на стандартной библиотеке Python без зависимостей, 583 теста, защита от утечки данных, GitHub Pages, релиз, Dependabot, ADR | [field-tech-guide](https://github.com/Alpha-Oi/field-tech-guide) |
 | 🔁 **CI/CD, GitHub Actions** | Проверки на Windows, Linux и macOS при каждом изменении; валидация стандарта в CI | [autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet) · [scout](https://github.com/Alpha-Oi/scout) · [DOA](https://github.com/Alpha-Oi/digital-organism-architecture) |
 | 🧪 **Тестирование и качество кода** | Сканер на 14 детекторах: pytest, ruff, mypy, bandit, semgrep, detect-secrets; на реальном проекте 23 находки → 6 | [scout](https://github.com/Alpha-Oi/scout) |
 | 🔐 **Безопасность** | Фильтр секретов перед записью, шифрование ключей (Fernet), маскирование в логах, проверка зависимостей на CVE | [scout](https://github.com/Alpha-Oi/scout) · [autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet) · ozon-ai-automation 🔒 |
@@ -64,13 +65,15 @@
 - 🌀 Строю **[autopilot-flywheel](https://github.com/Alpha-Oi/autopilot-flywheel)** — мультиагентную самообучающуюся платформу для автономной разработки *(этап проектирования)*
 - ✈️ Развиваю **[autopilot-jet](https://github.com/Alpha-Oi/autopilot-jet)** — навык для AI-агентов, превращающий слова в готовый проект
 - 🧭 Делаю **[next-skill-router](https://github.com/Alpha-Oi/next-skill-router)** — cost-aware маршрутизацию навыков для Claude Code
+- 📱 Выпустил **[field-tech-guide](https://github.com/Alpha-Oi/field-tech-guide)** — пошаговый гайд для выездных мастеров ИТ-ремонта: офлайн-страница для телефона, прайс и акт, 583 теста, CI и [живое демо](https://alpha-oi.github.io/field-tech-guide/)
+- 🧬 Строю **[genome-studio](https://github.com/Alpha-Oi/genome-studio)** — workbench для генной инженерии: от цели на естественном языке до плана, дизайна gRNA, симуляции и PDF-отчёта
 - 🔍 Разрабатываю **[scout](https://github.com/Alpha-Oi/scout)** — read-only сканер проектов с 14 детекторами
 - 🧬 Пишу **[digital-organism-architecture](https://github.com/Alpha-Oi/digital-organism-architecture)** — стандарт для управляемых и восстанавливаемых AI-систем
 - 🛒 Автоматизирую e-commerce на Ozon — репрайсер, FBO/FBS, AI-инструменты, Telegram-бот *(приватный проект)*
-- 🧠 Создаю **GPTMEAi** — локальный прототип AI OS с памятью, графом связей и планировщиком *(приватный)*
-- 🧬 Делаю **GPTMEAi-SEMASCRIPT** — интеграционный мост между AI OS и semantic scripting *(приватный)*
+- 🧠 Создаю **[GPTMEAi](https://github.com/Alpha-Oi/GPTMEAi)** — локальный прототип AI OS с памятью, графом связей и планировщиком
+- 🧬 Делаю **[GPTMEAi-SEMASCRIPT](https://github.com/Alpha-Oi/GPTMEAi-SEMASCRIPT)** — интеграционный мост между AI OS и semantic scripting
 - 📚 Делаю **Thoth** — персонального knowledge-агента для Telegram *(приватный)*
-- ⚡ Активно развиваю экосистему из **12 репозиториев** (часть приватные), посвящённых агентным системам и автоматизации
+- ⚡ Развиваю экосистему репозиториев (часть приватные), посвящённых агентным системам и автоматизации
 - 💬 Спросите меня о **AI-агентах, автономных системах, FastAPI, Next.js, Claude Code, MCP-серверах**
 - 📫 Как со мной связаться: **crown.aliy1980@gmail.com** или [Telegram](https://t.me/MirtAliy)
 
@@ -130,11 +133,17 @@
 #### 🧠 AI OS, knowledge и качество кода
 | Репозиторий | Описание |
 |---|---|
-| **GPTMEAi** 🔒 | Локальный прототип AI OS: память, граф связей, планировщик, аудируемый operation ledger |
-| **SEMASCRIPT** 🔒 | Portable local outcome-package: three-way merge / commit / promote bundle. Semantic scripting, local-first |
-| **GPTMEAi-SEMASCRIPT** 🔒 | Dry-run integration bridge между GPTMEAi и SEMASCRIPT: adapter + contract layer, event-sourced skeleton, approval-gated |
+| **[GPTMEAi](https://github.com/Alpha-Oi/GPTMEAi)** | Локальный прототип AI OS: память, граф связей, планировщик, аудируемый operation ledger |
+| **[SEMASCRIPT](https://github.com/Alpha-Oi/SEMASCRIPT)** | Portable local outcome-package: three-way merge / commit / promote bundle. Semantic scripting, local-first |
+| **[GPTMEAi-SEMASCRIPT](https://github.com/Alpha-Oi/GPTMEAi-SEMASCRIPT)** | Dry-run integration bridge между GPTMEAi и SEMASCRIPT: adapter + contract layer, event-sourced skeleton, approval-gated |
 | **Thoth** 🔒 | Персональный knowledge-агент в Telegram: саммари ссылок, авто-теги, семантический поиск |
 | **[scout](https://github.com/Alpha-Oi/scout)** | Read-only сканер проектов с дашбордом и 14 детекторами (баги, уязвимости, мёртвый код). На реальном проекте: 23 находки → 6, высокой серьёзности 5 → 0 |
+
+#### 📱 Готовые продукты
+| Репозиторий | Описание |
+|---|---|
+| **[field-tech-guide](https://github.com/Alpha-Oi/field-tech-guide)** | Пошаговый гайд для выездных мастеров ИТ-ремонта: страница для телефона (один файл, офлайн), прайс и акт, готовые сообщения для чата, записка техдиру. Python без зависимостей, 583 теста, CI, [демо](https://alpha-oi.github.io/field-tech-guide/) |
+| **[genome-studio](https://github.com/Alpha-Oi/genome-studio)** | Workbench для генной инженерии: цель → план → дизайн CRISPR → симуляция → PDF-отчёт. Python, Rust, Node, CI |
 
 #### 🛒 Бизнес-автоматизация
 | Репозиторий | Описание |
@@ -153,6 +162,9 @@
 ### 📌 Избранные репозитории
 
 <p align="center">
+  <a href="https://github.com/Alpha-Oi/field-tech-guide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=field-tech-guide&theme=radical&hide_border=true" alt="field-tech-guide" />
+  </a>
   <a href="https://github.com/Alpha-Oi/scout">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alpha-Oi&repo=scout&theme=radical&hide_border=true" alt="scout" />
   </a>
